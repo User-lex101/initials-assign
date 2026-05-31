@@ -24,6 +24,6 @@ def main():
     print(".....OOO.......OOO........EE....................AAA....AAA.....")
     print("......OOOOOOOOOOO...***...EEEEEEEEEEEEE...***...AAA....AAA.....")
     print("........OOOOOO......***...EEEEEEEEEEEEE...***...AAA....AAA.....")
-
+    print()
 
 main()
